@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 About Me
 
-* 🔭 I’m currently working on **[Specific FiveM Project / MilSim Server]**
+* 🔭 I’m currently working on **Fivem Milsim Scripts/Servers**
 * 🧠 What I know: **LUA, JS, HTML And CSS**
-* 👯 I’m looking to collaborate on **[Open Source FiveM Scripts / Frameworks]**
+* 👯 I’m looking to collaborate on **Intresting Fivem Milsim Scripts**
 * 💬 Ask me about **Standalone, QBCore, NUI**
 
 ---
